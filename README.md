@@ -67,8 +67,8 @@ Communication
     
 | 페이지 | 구현 내용 캡쳐 | 개발 담당 |
 | --- | --- | --- |
-| 장바구니 조회/삭제/수량 증감<br>장바구니 제품 총합 | <p align="center"><img src="https://user-images.githubusercontent.com/53294075/212548331-013f23e7-c8e1-4f88-b301-da0b8c25ca0c.png" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
-| 결제완료 페이지 | <p align="center"><br><img src="https://user-images.githubusercontent.com/53294075/212548335-02e004d0-d530-42c6-b8c0-5ed4e72d3473.png" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
+| 장바구니 조회/삭제/수량 증감 <br> 장바구니 제품 총합 <br> 페이지 이동 | <p align="center"><img src="https://user-images.githubusercontent.com/101877533/212618404-722774ae-2276-4b21-8681-bb648880e501.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
+| 결제완료 페이지 | <p align="center"><br><img src="https://user-images.githubusercontent.com/101877533/212618184-c3c52221-e18a-49aa-92f3-2427b0d35d1b.gif" width = "400px"></p> | [FE] 황선용 <br> [BE] 최민주 |
 </details>
 
 <br>
